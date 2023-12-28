@@ -1,0 +1,178 @@
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+}
+
+p{
+    color: #575455;
+    font-size: 16px;
+    line-height: 32px;
+}
+
+#header{
+    color: #070F18;
+    text-decoration: underline;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 28px;
+}
+
+#menu{
+    text-align: right;
+    margin-top: 49px;
+}
+
+#menu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#menu li{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+a{
+    color: #070F18;
+    text-decoration: none;
+}
+
+#tutiloApresentacao h1{
+    margin-top: 83px;
+    line-height: 82px;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+#tutiloApresentacao a{
+background-color: #1F7CFF;
+color: white;
+font-size: 16px;
+padding: 10px 30px 10px 30px;
+border: none;
+border-radius: 50px;
+}
+
+#tutiloApresentacao p{
+    margin-bottom: 30px;
+}
+
+#imagemApresentacao{
+    margin-top: 50px;
+    text-align: right;
+    width: 540px;
+    height: 400px;
+    margin-bottom: 42px;
+    
+}
+
+button{
+    background-color: #1F7CFF;
+    color: white;
+    font-size: 16px;
+    width: 180px;
+    height: 48px;
+    border: none;
+    border-radius: 50px;
+}
+
+#clientes p{
+    margin-top: 49px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #070F18;
+    margin-bottom: 46px;
+}
+
+.imgClientes{
+    margin-top: 58px;
+    text-align: center;
+}
+
+#servicos{
+    text-align: center;
+    margin-bottom: 29px;
+}
+
+#servicosx{
+    margin-top: 60px;
+    color: #F75C4E;
+    font-size: 16px;
+    
+}
+#tipoServicos{
+    text-align: center;
+}
+
+#tipoServicos h1{
+    font-size: 20px;
+}
+
+#contatoImg{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 100%;
+}
+
+#contatoTexto{
+    margin-left: 70px;
+}
+
+#contatox{
+    margin-top: 160px;
+    color: #F75C4E;
+    font-size: 16px;
+}
+
+#contatoTexto h1{
+    margin-top: 0;
+}
+
+#contatoy{
+    margin-bottom: 40px;
+}
+
+#contatoTexto input{
+    width: 406px;
+    height: 48px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 50px;
+    background-color: #F5F6FB;
+    padding-left: 25px;
+}
+
+#contatoTexto button{
+    cursor: pointer;
+}
+
+#conheca p{
+    margin-top: 68px;
+    color: #F75C4E;
+    font-size: 16px;
+    margin-bottom: 0;
+}
+
+#conheca h1{
+    margin-top: 10px;
+    font-size: 36px;
+    margin-bottom: 33px;
+}
+
+#imagem{
+    margin-bottom: 200px;
+}
+
+.imgImg{
+    margin-top: 50px;
+    text-align: center;
+    width: 80%
+}
